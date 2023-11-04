@@ -6,3 +6,8 @@
 //
 
 import Foundation
+
+/// Объект, представляющий один вызов API
+final class RMRequest {
+    
+}
